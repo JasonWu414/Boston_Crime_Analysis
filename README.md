@@ -11,7 +11,7 @@ For this project, Since the data point has over 300,000, I used Apache Spark on 
 
 Here is some charts created in the Notebook:
 
-![Number of Crimes_for Universities in the Boston Area]('Crimes_in_Boston_Area_Universities .png')
+![Number of Crimes_for Universities in the Boston Area](Crimes_in_Boston_Area_Universities.png)
 
 ![Heatmap for crimes involved shooting in the Boston Area](Shooting_Crime_Heatmap.png)
 
