@@ -8,3 +8,13 @@ For this project, Since the data point has over 300,000, I used Apache Spark on 
 
 ### As DataBrick Notebook cannot directly put into the Github, here is the [DataBricks Notebook link](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3014812208976575/3794154026177906/8479687476525162/latest.html)
 
+
+Here is some charts created in the Notebook:
+
+![Number of Crimes_for Universities in the Boston Area](Crimes_in_Boston_Area_Universities.png)
+
+![Heatmap for crimes involved shooting in the Boston Area](Shooting_Crime_Heatmap.png)
+
+![Time_series_forcasting_for_known period of crimes ](Time_series_forcasting_for_known_data.png)
+
+![Time_series_forcasting_for_future crimes ](Time_series_forcasting_for_future.png)
