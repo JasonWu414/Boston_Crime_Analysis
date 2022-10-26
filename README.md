@@ -4,5 +4,5 @@ This project focuses on analyzing the crime in Boston from June 14, 2015, to Sep
 
 This project can show regions that have a high probability of crime occurrence (shooting), visualize crime-prone areas, and also forecast the occurrence of future crime rates. This helps to perform descriptive, predictive, and prescriptive analysis of Boston crime data.
 
-For this project, Since the data point has over 300,000, I used Apache Spark on the DataBricks platform. I tried Spark SQL and Spark Dataframe to query and manipulate the dataset. Here is the DataBricks Notebook [link](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3014812208976575/3794154026177906/8479687476525162/latest.html)
+For this project, Since the data point has over 300,000, I used Apache Spark on the DataBricks platform. I tried Spark SQL and Spark Dataframe to query and manipulate the dataset. Here is the [DataBricks Notebook link](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3014812208976575/3794154026177906/8479687476525162/latest.html)
 
